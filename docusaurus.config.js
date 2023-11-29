@@ -67,7 +67,7 @@ module.exports = {
           ],
           dropdownItemsBefore: [
             {
-              label: 'v23.x',
+              label: 'v23.x (actual)',
               href: 'https://effector.dev',
             },
           ],
